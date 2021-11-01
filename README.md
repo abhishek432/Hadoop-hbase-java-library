@@ -1,0 +1,1 @@
+# Hadoop-hbase-java-library
